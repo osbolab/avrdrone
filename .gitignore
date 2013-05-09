@@ -1,0 +1,23 @@
+# disk images
+*.iso
+
+# avrcam I2C Test program
+I2C\ Test/
+
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
