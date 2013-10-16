@@ -1,0 +1,6 @@
+0x21,   //switch to extended commands  
+0xE0,   //set value of Vop (controls contrast) = 0x80 | 0x60 (arbitrary)  
+0x04,   //set temperature coefficient  
+0x14,   //set bias mode to 1:48.  
+0x20,   //switch back to regular commands  
+0x0C,   //enable normal display (dark on light), horizontal addressing  
